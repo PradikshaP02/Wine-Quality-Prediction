@@ -2,26 +2,42 @@ Used Kaggle’s Red Wine Quality dataset to build various classification models 
 
 The quality of a wine is determined by 11 input variables:
 
-Fixed acidity
-Volatile acidity
-Citric acid
-Residual sugar
-Chlorides
-Free sulfur dioxide
-Total sulfur dioxide
-Density
-pH
-Sulfates
-Alcohol
+- Fixed acidity
+
+- Volatile acidity
+
+- Citric acid
+
+- Residual sugar
+
+- Chlorides
+
+- Free sulfur dioxide
+
+- Total sulfur dioxide
+
+- Density
+
+- pH
+
+- Sulfates
+
+- Alcohol
 
 The objectives of this project is:
 
 To experiment with different classification methods to see which yields the highest accuracy
 
 The classification model includes:
-Logistic Regression
-SVM
-KNN
-Guassian Naive Bayes
-Decision Tree
-Random Forest
+
+- Logistic Regression
+
+- SVM
+
+- KNN
+
+- Guassian Naive Bayes
+
+- Decision Tree
+
+- Random Forest
